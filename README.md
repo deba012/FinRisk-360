@@ -1,4 +1,4 @@
-# 💳 FINRISK 360 — Credit Risk Analytics & Decision Support System
+# 💳 FINRISK 360 : Credit Risk Analytics & Decision Support System
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
